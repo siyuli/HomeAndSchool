@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tv_actionbar_title"/>
+    <item type="id" name="listview"/>
+    <item type="id" name="message"/>
+    <item type="id" name="send"/>
+
+    <item type="id" name="avatar_chat"/>
+    <item type="id" name="rl_chat"/>
+    <item type="id" name="content"/>
+    <item type="id" name="time"/>
+
+    <item type="id" name="save_status"/>
+    <item type="id" name="tv_register"/>
+    <item type="id" name="bt_login"/>
+    <item type="id" name="password"/>
+    <item type="id" name="account"/>
+    <item type="id" name="name"/>
+    <item type="id" name="bt_register"/>
+    <item type="id" name="search_friend"/>
+    <item type="id" name="check_update"/>
+    <item type="id" name="add_friend"/>
+    <item type="id" name="chat_with"/>
+    <item type="id" name="friend_list"/>
+
+    <item type="id" name="pager"/>
+
+    <item type="id" name="create_class"/>
+    <item type="id" name="join_class"/>
+    <item type="id" name="class_name"/>
+    <item type="id" name="class_num"/>
+    <item type="id" name="search_class"/>
+
+    <!-- 代表 接受或者发送的消息 -->
+    <item type="id" name="tag_left"/>
+    <item type="id" name="tag_right"/>
+
+
+</resources>
